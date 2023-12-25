@@ -1,5 +1,5 @@
 from converter import Converter
-from tkinter import *
+
 
 converter = Converter()
 
